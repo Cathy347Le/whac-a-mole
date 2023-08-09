@@ -4,5 +4,5 @@ Ya gotta whack them all!
 
 ### TO DOs
 
-- create react app
+- `npx create-react-app whack-a-mole --template typescript
 - typescript
