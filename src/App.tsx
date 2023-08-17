@@ -1,7 +1,7 @@
 import './App.css';
 import { Hole } from './Components/Hole';
 
-function App() {
+export const App = () => {
   return (
     <div className="App">
       <header>
@@ -16,6 +16,4 @@ function App() {
       </div>
     </div>
   );
-}
-
-export default App;
+};
